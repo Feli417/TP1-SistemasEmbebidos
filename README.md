@@ -15,3 +15,7 @@ La fuente de 12V es una fuente de alimentación de celular motorola con un stepD
 - **AnalogIN**: _LDR y LM35 (temperatura)_
 
 - **DigitalOUT**: _LED2 y Bomba_
+
+**Diagrama de bloques:**
+
+![image](https://github.com/Feli417/TP1-SistemasEmbebidos/assets/146275872/e938e0cc-f4d2-4a83-9ea5-ab5a15f81e6e)
