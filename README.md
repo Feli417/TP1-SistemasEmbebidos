@@ -10,8 +10,8 @@ La fuente de 12V es una fuente de alimentación de celular motorola con un stepD
 
 **Periféricos utilizados**:
 
-- DigitalIN: Sensor de humedad
+- **DigitalIN**: _Sensor de humedad_
 
-- AnalogIN: LDR y LM35 (temperatura)
+- **AnalogIN**: _LDR y LM35 (temperatura)_
 
-- DigitalOUT: LED2 y Bomba
+- **DigitalOUT**: _LED2 y Bomba_
